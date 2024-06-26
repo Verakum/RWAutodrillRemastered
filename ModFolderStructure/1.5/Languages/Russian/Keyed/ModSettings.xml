@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<ModSettingTitle>Автоматическое бурение</ModSettingTitle>
+	<GlobalLabel>Глобальные изменения</GlobalLabel>
+	<InfestationCheckboxLabel>Включить заражение насекомыми?</InfestationCheckboxLabel>
+	<InfestationCheckboxTooltip>Эта настройка позволяет включить или отключить заражение при использовании автоматического бура.</InfestationCheckboxTooltip>
+	<InfestationCheckboxSubLabel>Чтобы изменения вступили в силу, требуется перезагрузка сохранения</InfestationCheckboxSubLabel>
+	<ShowResourceCheckboxLabel>Показывать ресурсы при выборе бура?</ShowResourceCheckboxLabel>
+	<ShowResourceCheckboxTooltip>Позволит отображать ресурсы как при глубоком сканировании</ShowResourceCheckboxTooltip>
+	<ConsumeResourcesCheckboxLabel>Исчерпаемые ресурсы? - Чит "Бесконечные ресурсы"</ConsumeResourcesCheckboxLabel>
+	<ConsumeResourcesCheckboxTooltip>Если отключить эту функцию, автоматические буры не будут исчерпать ресурсы.</ConsumeResourcesCheckboxTooltip>
+	<BasicAutoDrillConfigTitle>Конфигурация базового автобура</BasicAutoDrillConfigTitle>
+	<GiantAutoDrillConfigTitle>Конфигурация гигантского автобура</GiantAutoDrillConfigTitle>
+	<SmartAutoDrillConfigTitle>Конфигурация умного автобура</SmartAutoDrillConfigTitle>
+	<StoneChunksQuantityLabel>Каменные глыбы, добываемые, когда залежи ископаемых исчерпаны</StoneChunksQuantityLabel>
+	<ResourceFrequencyLabel>Частота добычи ресурсов (время в секундах реального времени)</ResourceFrequencyLabel>
+	<ResourceMinimumFrequencySubLabel>Минимум 42 сек в реальной жизни = 1 час в игре.</ResourceMinimumFrequencySubLabel>
+	<ResourceMaximumFrequencySubLabel>Максимум 984 сек в реальной жизни = 16 мин 40 сек в реальной жизни = 24 часа в игре</ResourceMaximumFrequencySubLabel>
+	<ResourceConsumptionQuantity>Количество потребляемых ресурсов</ResourceConsumptionQuantity>
+	<ResourceOutputQuantity>Количество добываемых ресурсов</ResourceOutputQuantity>
+</LanguageData>
