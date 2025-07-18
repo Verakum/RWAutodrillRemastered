@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<ModSettingTitle>Auto Deep Drill</ModSettingTitle>
+	<GlobalLabel>GlobalChanges</GlobalLabel>
+	<InfestationCheckboxLabel>Infestation Enabled?</InfestationCheckboxLabel>
+	<InfestationCheckboxTooltip>This setting allows to enable or disable the infestations when using the Auto Deep Mining Drill</InfestationCheckboxTooltip>
+	<InfestationCheckboxSubLabel>Changing setting requires a reload of the save in order to take effect.</InfestationCheckboxSubLabel>
+	<ShowResourceCheckboxLabel>Show resources on drill selection?</ShowResourceCheckboxLabel>
+	<ShowResourceCheckboxTooltip>This allow the display of the resources as if being a deep scanner</ShowResourceCheckboxTooltip>
+	<ConsumeResourcesCheckboxLabel>Consumes resources? - Basically Endless Resources Cheat</ConsumeResourcesCheckboxLabel>
+	<ConsumeResourcesCheckboxTooltip>Disabling this makes the auto deep drill not consume resources.</ConsumeResourcesCheckboxTooltip>
+	<BasicAutoDrillConfigTitle>Basic AutoDrill Config</BasicAutoDrillConfigTitle>
+	<GiantAutoDrillConfigTitle>Giant AutoDrill Config</GiantAutoDrillConfigTitle>
+	<SmartAutoDrillConfigTitle>Smart AutoDrill Config</SmartAutoDrillConfigTitle>
+	<StoneChunksQuantityLabel>Stone chunks produced when resource node is empty</StoneChunksQuantityLabel>
+	<ResourceFrequencyLabel>Resource Drill Frequency (time in real life seconds)</ResourceFrequencyLabel>
+	<ResourceMinimumFrequencySubLabel>Minimum time 42s real life = 1h ingame.</ResourceMinimumFrequencySubLabel>
+	<ResourceMaximumFrequencySubLabel>Maximum 984s real life = 16m 40s real life = 24h ingame</ResourceMaximumFrequencySubLabel>
+	<ResourceConsumptionQuantity>Resource Consumption Quantity</ResourceConsumptionQuantity>
+	<ResourceOutputQuantity>Resource Output Quantity</ResourceOutputQuantity>
+</LanguageData>

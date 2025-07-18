@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AutoDrill_Research_Basic.label>Автоматический бур</AutoDrill_Research_Basic.label>
+  <AutoDrill_Research_Basic.description>Есть дела поважнее? Если бы только существовал способ автоматизировать добычу минералов из глубоких слоев...</AutoDrill_Research_Basic.description>
+
+  <AutoDrill_Research_Giant.label>Гигантский автобур</AutoDrill_Research_Giant.label>
+  <AutoDrill_Research_Giant.description>Гигантский широкоствольный автоматический бур. Добывает ресурсы в больших количествах, жертвуя качеством добычи, что быстрее истощает глубоко залегающие залежи полезных ископаемых. Средний цикл бурения составляет семь часов. Может добывать несколько каменных глыб, в среднем три стака с половиной за цикл.</AutoDrill_Research_Giant.description>
+
+  <AutoDrill_Research_Smart.label>Умный автобур</AutoDrill_Research_Smart.label>
+  <AutoDrill_Research_Smart.description>Сверхэффективный бур. Медленный и имеет небольшой стержень, но использует передовые методы добычи, чтобы не растрачивать залежи полезных ископаемых. Запрограммирован на интеллектуальное определение глубины, чтобы избежать заражения. Средний цикл бурения - двенадцать часов. Этот бур не будет добывать каменные глыбы.</AutoDrill_Research_Smart.description>
+</LanguageData>
