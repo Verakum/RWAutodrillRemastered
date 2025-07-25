@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<ModSettingTitle>自动钻井机</ModSettingTitle>
+	<GlobalLabel>全局设置</GlobalLabel>
+	<InfestationCheckboxLabel>是否启用虫害?</InfestationCheckboxLabel>
+	<InfestationCheckboxTooltip>此设置允许在使用自动钻井机时启用或禁用虫害</InfestationCheckboxTooltip>
+	<InfestationCheckboxSubLabel>注意：更改此项设置需要重新加载存档才能生效。</InfestationCheckboxSubLabel>
+	<ShowResourceCheckboxLabel>是否允许在选择自动钻井机时显示资源?</ShowResourceCheckboxLabel>
+	<ShowResourceCheckboxTooltip>自动钻井机在被选择时像地质扫描仪一样显示资源</ShowResourceCheckboxTooltip>
+	<ConsumeResourcesCheckboxLabel>是否允许消耗资源? - 注意：当禁用时这相当于开了无限资源挂。</ConsumeResourcesCheckboxLabel>
+	<ConsumeResourcesCheckboxTooltip>禁用此选项将使自动深钻井不消耗资源。</ConsumeResourcesCheckboxTooltip>
+	<BasicAutoDrillConfigTitle>自动钻井机 设定</BasicAutoDrillConfigTitle>
+	<GiantAutoDrillConfigTitle>大型自动钻井机 设定</GiantAutoDrillConfigTitle>
+	<SmartAutoDrillConfigTitle>精密自动钻井机 设定</SmartAutoDrillConfigTitle>
+	<StoneChunksQuantityLabel>当矿物资源被挖掘完时，后续挖掘产生石块的数量</StoneChunksQuantityLabel>
+	<ResourceFrequencyLabel>钻井频率（以现实生活中秒进行计数）</ResourceFrequencyLabel>
+	<ResourceMinimumFrequencySubLabel>最小为42秒现实时间 = 游戏内1小时</ResourceMinimumFrequencySubLabel>
+	<ResourceMaximumFrequencySubLabel>最大为984秒现实时间 = 现实生活中的16分钟40秒 = 游戏内24小时</ResourceMaximumFrequencySubLabel>
+	<ResourceConsumptionQuantity>消耗的矿物比例</ResourceConsumptionQuantity>
+	<ResourceOutputQuantity>产出的矿物比例</ResourceOutputQuantity>
+</LanguageData>

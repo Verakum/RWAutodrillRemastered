@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+<ModSettingTitle>Perforadora profunda automática</ModSettingTitle>
+<GlobalLabel>Cambios globales</GlobalLabel>
+<InfestationCheckboxLabel>¿Infestaciones habilitadas?</InfestationCheckboxLabel>
+<InfestationCheckboxTooltip>Esta configuración permite habilitar o deshabilitar las infestaciones al usar la perforadora de minería profunda automática.</InfestationCheckboxTooltip>
+<InfestationCheckboxSubLabel>Cambiar esta configuración requiere recargar la partida guardada para que surta efecto.</InfestationCheckboxSubLabel>
+<ShowResourceCheckboxLabel>¿Mostrar recursos al seleccionar la perforadora?</ShowResourceCheckboxLabel>
+<ShowResourceCheckboxTooltip>Esto permite mostrar los recursos como si fuera un escáner profundo.</ShowResourceCheckboxTooltip>
+<ConsumeResourcesCheckboxLabel>¿Consume recursos? - Básicamente un truco de recursos infinitos</ConsumeResourcesCheckboxLabel>
+<ConsumeResourcesCheckboxTooltip>Deshabilitar esto hace que la perforadora profunda automática no consuma recursos.</ConsumeResourcesCheckboxTooltip>
+<BasicAutoDrillConfigTitle>Configuración de perforadora automática básica</BasicAutoDrillConfigTitle>
+<GiantAutoDrillConfigTitle>Configuración de perforadora automática gigante</GiantAutoDrillConfigTitle>
+<SmartAutoDrillConfigTitle>Configuración de perforadora automática inteligente</SmartAutoDrillConfigTitle>
+<StoneChunksQuantityLabel>Cantidad de fragmentos de piedra producidos cuando el nodo de recursos está vacío</StoneChunksQuantityLabel>
+<ResourceFrequencyLabel>Frecuencia de perforación de recursos (tiempo en segundos de la vida real)</ResourceFrequencyLabel>
+<ResourceMinimumFrequencySubLabel>Tiempo mínimo 42s en la vida real = 1h en el juego.</ResourceMinimumFrequencySubLabel>
+<ResourceMaximumFrequencySubLabel>Máximo 984s en la vida real = 16m 40s en la vida real = 24h en el juego</ResourceMaximumFrequencySubLabel>
+<ResourceConsumptionQuantity>Cantidad de consumo de recursos</ResourceConsumptionQuantity>
+<ResourceOutputQuantity>Cantidad de producción de recursos</ResourceOutputQuantity>
+</LanguageData>

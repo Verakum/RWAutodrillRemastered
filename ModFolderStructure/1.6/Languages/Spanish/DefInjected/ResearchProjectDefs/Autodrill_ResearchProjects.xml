@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<AutoDrill_Research_Basic.label>Perforación automática</AutoDrill_Research_Basic.label>
+<AutoDrill_Research_Basic.description>¿Tienes mejores cosas que hacer? Si tan solo hubiera una forma de automatizar la extracción de minerales de la corteza profunda.</AutoDrill_Research_Basic.description>
+
+<AutoDrill_Research_Giant.label>Perforadora automática gigante</AutoDrill_Research_Giant.label>
+<AutoDrill_Research_Giant.description>Una perforadora automática de gran calibre. Extrae recursos en grandes cantidades, sacrificando eficiencia, lo que agota los depósitos de minerales de la corteza profunda más rápidamente. Ciclo de perforación promedio de siete horas. Puede extraer múltiples fragmentos de piedra, un promedio de tres y medio por ciclo.</AutoDrill_Research_Giant.description>
+
+<AutoDrill_Research_Smart.label>Perforadora automática inteligente</AutoDrill_Research_Smart.label>
+<AutoDrill_Research_Smart.description>Una perforadora automática hiper eficiente. Es lenta y tiene un calibre pequeño, pero utiliza técnicas de minería avanzadas para no desperdiciar los depósitos de minerales. Programada con detección inteligente de profundidad para evitar infestaciones. Ciclo de perforación promedio de doce horas. Esta perforadora NO PUEDE extraer fragmentos de piedra.</AutoDrill_Research_Smart.description>
+</LanguageData>
